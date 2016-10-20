@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://kashowsoft.ticp.io:11683/VersionCheck/Index</string>
+					<string>http://192.168.31.100/GangHuaGas.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://kashowsoft.ticp.io:11683/</string>
+					<string>https://kashowsoft.ticp.io:11683/</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ganghua.GangHuaGas</string>
 				<key>bundle-version</key>
-				<string>2.0.1</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
