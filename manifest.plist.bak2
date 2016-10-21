@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.93.112.188:8010/VersionCheck/Index</string>
+					<string>http://kashowsoft.ticp.io:11683/VersionCheck/Index</string>
 				</dict>
 				<dict>
 					<key>kind</key>
