@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.93.112.188:8010/VersionCheck/Index</string>
+					<string>http://192.168.31.100/GangHuaGas.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
